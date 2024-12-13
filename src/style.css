@@ -3,8 +3,8 @@
     background-image: url(../images/cake6.jpg);
     height: 300px;
     background-size: cover;
-    border: 2px solid beige;
-    box-shadow:  0 2px 4px saddlebrown;
+    border: 2px solid pink;
+    box-shadow:  0 2px 4px rgb(237, 213, 196);
 }
 .navigation{
     display: flex;
@@ -30,7 +30,7 @@
     display: flex;
     justify-content: space-evenly;
     margin: 10px 2px;
-    background-color: chocolate;
+    background-color: peru;
 }
 .display{
     width: 30%;
